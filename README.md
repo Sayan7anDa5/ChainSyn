@@ -15,6 +15,9 @@ This project is an end-to-end data analytics and simulation dashboard designed t
 3. **Geographic Risk Mapping:** Interactive heatmaps pinpointing specific order cities with the highest concentration of delayed shipments.
 4. **Supplier Watchlist:** An automated, threshold-based table identifying specific product categories that fall below acceptable delivery standards, allowing for targeted contract renegotiations.
 
+## 📸 Dashboard Preview
+![Dashboard Preview](assets/dashboard_preview.png)
+
 ## 💻 How to Run Locally
 
 1. **Clone the repository:**
