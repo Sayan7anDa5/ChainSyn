@@ -55,7 +55,7 @@ st.divider()
 # --- 2. DATA LOADING ---
 @st.cache_data
 def load_data():
-    df = pd.read_csv('/home/sayantan/Documents/supply_chain_PROJECT/data/DataCoSupplyChainDataset.csv', encoding='iso-8859-1')
+    df = pd.read_csv('data/DataCoSupplyChainDataset.csv', encoding='iso-8859-1')
     df['order date (DateOrders)'] = pd.to_datetime(df['order date (DateOrders)'])
     df = df.dropna(subset=['Latitude', 'Longitude'])
     df['Shipping_Gap'] = df['Days for shipping (real)'] - df['Days for shipment (scheduled)']
