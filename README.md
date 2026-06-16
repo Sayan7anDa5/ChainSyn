@@ -1,6 +1,6 @@
 # 🚢 ChainSyn: Supply Chain Command Center
 
-[![LIVE DASHBOARD](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)[(https://chainsyn.streamlit.app/)]
+[![LIVE DASHBOARD][(https://static.streamlit.io/badges/streamlit_badge_black_white.svg)(https://chainsyn.streamlit.app/)]
 
 ## 📌 Executive Summary
 This project is an end-to-end data analytics and simulation dashboard designed to monitor global delivery health, identify high-risk suppliers, and simulate the financial impact of logistics disruptions. Built using Python and Streamlit, this tool transforms 180,000+ rows of raw shipping data into an interactive, enterprise-grade application.
